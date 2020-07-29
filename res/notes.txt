@@ -1,0 +1,50 @@
+new Dia 1 pre
+Remo pendley : 1.15
+[  ] 10 x 5 - 8
+[  ] 10 x 6 - 5
+[  ] 10 x 7 - 3
+Dominadas abiertas : 1.15
+[  ] 8 - 2
+[  ] 8 - 0
+[  ] 6 - 0
+Dominadas cerradas : 1.30
+[  ] 7 - 0
+[  ] 3 - 0
+[  ] 7 - 0
+Jalon polea : 1.30
+[  ] 15 x 5 - 8
+[  ] 15 x 6 - 4
+[  ] 15 x 7 - 3
+Remo : 1.15
+[  ] 15 x 6 - 5
+[  ] 15 x 7 - 3
+[  ] 15 x 7 - 3
+Remo con mancuerna : 1.15
+[  ] 15 x 14 - 0
+[  ] 15 x 14 - 0
+[  ] 15 x 14 - 0
+new Dia 2 hola
+Remo pendley : 1.15
+[  ] 10 x 5 - 8
+[  ] 10 x 6 - 5
+[  ] 10 x 7 - 3
+Dominadas abiertas : 1.15
+[  ] 8 - 2
+[  ] 8 - 0
+[  ] 6 - 0
+Dominadas cerradas : 1.30
+[  ] 7 - 0
+[  ] 3 - 0
+[  ] 7 - 0
+Jalon polea : 1.30
+[  ] 15 x 5 - 8
+[  ] 15 x 6 - 4
+[  ] 15 x 7 - 3
+Remo : 1.15
+[  ] 15 x 6 - 5
+[  ] 15 x 7 - 3
+[  ] 15 x 7 - 3
+Remo con mancuerna : 1.15
+[  ] 15 x 14 - 0
+[  ] 15 x 14 - 0
+[  ] 15 x 14 - 0
